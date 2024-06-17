@@ -9,7 +9,7 @@ filelock==3.13.1
 flake8==6.1.0
 gibberish-detector==0.1.1
 identify==2.5.33
-idna==3.6
+idna==3.7
 iniconfig==2.0.0
 mccabe==0.7.0
 monotonic==1.6
@@ -27,7 +27,7 @@ pyflakes==3.2.0
 pyparsing==3.1.1
 pytest==7.4.3
 PyYAML==6.0.1
-requests==2.31.0
+requests==2.32.2
 responses==0.24.1
 six==1.16.0
 toml==0.10.2
@@ -38,6 +38,6 @@ types-PyYAML==6.0.12.12
 types-requests==2.31.0.20240106
 typing-extensions==4.10.0
 unidiff==0.7.5
-urllib3==2.1.0
+urllib3==2.2.2
 virtualenv==20.25.0
 zipp==3.17.0
